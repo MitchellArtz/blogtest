@@ -1,4 +1,4 @@
-baseURL = "https://blog.ortexo.com/"
+baseURL = "https://blog-cylg.onrender.com/"
 languageCode = "en-us"
 title = "Ortexo Blog"
 theme = "github-style"
