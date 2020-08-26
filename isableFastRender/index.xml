@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 25 Aug 2020 18:46:47 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>hi there</description>
+    </item>
+    
+    <item>
       <title>Problems in STEM Empowerment</title>
       <link>http://localhost:1313/posts/problems-in-stem-empowerment-article/</link>
       <pubDate>Fri, 14 Aug 2020 19:29:07 -0400</pubDate>
