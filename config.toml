@@ -1,4 +1,4 @@
 baseURL = "https://blog.ortexo.com/"
 languageCode = "en-us"
 title = "Ortexo Blog"
-theme = "yeet"
+theme = "github-style"
