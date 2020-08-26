@@ -6,18 +6,18 @@
     <description>Recent content on Ortexo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2020 19:29:07 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2020 19:29:07 -0400</lastBuildDate>
     
 	<atom:link href="https://blog.ortexo.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
+      <title>How to get started in programming</title>
       <link>https://blog.ortexo.com/posts/my-first-post/</link>
-      <pubDate>Tue, 25 Aug 2020 19:29:07 -0400</pubDate>
+      <pubDate>Wed, 08 Jul 2020 19:29:07 -0400</pubDate>
       
       <guid>https://blog.ortexo.com/posts/my-first-post/</guid>
-      <description></description>
+      <description>Looking at our own team here at Launch Tech LLC, our programming experience and learning methodology differ significantly. Some of us took online classes in our own free time, some of us built foundations through Roblox or similar gaming sites, and some of us took classes in school. However, no matter where you begin or where you end up, no matter if your desire to program is purely professional, purely passionate, or somewhere in the middle, learning to program will give you the same couple of things: an altered, more logical view of the world, confidence in yourself and your abilities, and a new, highly applicable skill that will help you just about anywhere you go.</description>
     </item>
     
   </channel>
